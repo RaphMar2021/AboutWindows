@@ -265,7 +265,7 @@
                             Grid.Column="1"
                             Margin="0,0,0,5"
                             HorizontalAlignment="Left"
-                            d:Text="22000.1"
+                            d:Text="22621"
                             Foreground="{ThemeResource SystemControlForegroundBaseMediumBrush}"
                             IsTextSelectionEnabled="True"
                             TextWrapping="WrapWholeWords" />

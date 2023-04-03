@@ -1,4 +1,4 @@
-name: UWP
+name: App building
 
 on:
   push:
